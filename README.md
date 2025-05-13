@@ -1,4 +1,3 @@
-[![supermarket-manager](https://github-readme-stats.vercel.app/api/pin/?username=AhmedYasserEssam&repo=supermarket-manager)](https://github.com/AhmedYasserEssam/supermarket-manager)
 # 🛒 Supermarket Management System
 
 A supermarket management system developed in **C++** with **Qt5 widgets** for the graphical interface. This project simulates a real-world retail backend, supporting category and inventory management, shopping cart operations, order processing, and user accounts.
